@@ -16,7 +16,7 @@ itsdangerous==0.23
 pdfrw==0.1
 python-dateutil==1.5
 redis==2.8.0
-reportlab==2.7
+reportlab==3.5.55
 requests==2.0.0
 rst2pdf==0.93.dev
 wsgiref==0.1.2
